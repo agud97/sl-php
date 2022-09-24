@@ -1,0 +1,20 @@
+{
+    "name": "aa/a",
+    "description": "a",
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "Controllers",
+            "Core\\": "Core",
+            "Models\\": "Models",
+            "Helpers\\": "Helpers"
+        }
+    },
+    "authors": [
+        {
+            "name": "a a",
+            "email": "a@a.a"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
